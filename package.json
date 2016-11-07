@@ -1,0 +1,28 @@
+{
+  "name": "on-listening",
+  "version": "0.0.0",
+  "description": "on-listening handler for express",
+  "author": "dan entous",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "eslint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan-nl/on-listening.git"
+  },
+  "keywords": [
+    "express",
+    "helper",
+    "listening"
+  ],
+  "bugs": {
+    "url": "https://github.com/dan-nl/on-listening/issues"
+  },
+  "homepage": "https://github.com/dan-nl/on-listening#readme",
+  "devDependencies": {
+    "eslint": "3.9.1",
+    "eslint-config-dan-nl": "git://github.com/dan-nl/eslint-config-dan-nl.git"
+  }
+}
